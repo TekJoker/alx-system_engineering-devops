@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0-current_working_directory -> prints absolute path name of current working directory.
 # 1-listit -> displays content list of your current working directory.
 # 2-bring_me_home -> changes working directory to user's home directory.
@@ -13,3 +14,6 @@
 # 12-file_type -> prints type of file named iamafile in /tmp directory.
 # 13-symbolic_link -> creates a symbolic link to /bin/ls named __ls__.
 # 14-copy_html -> copies all html files from current working dir to parent of working dir, but onlyc   copies files that did not exist or that are a newer version.
+=======
+# 0x00-shell_basics for practising to navigate through shell terminal.
+>>>>>>> 43bae7e2a33ae0ccc725342073320da051321408
