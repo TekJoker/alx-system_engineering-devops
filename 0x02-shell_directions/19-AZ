@@ -1,2 +1,0 @@
-#!/bin/bash
-grep "A" iacta |grep "c" | tr "A" "Z" | tr "c" "e"
